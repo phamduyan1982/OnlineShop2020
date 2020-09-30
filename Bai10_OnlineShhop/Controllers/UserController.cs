@@ -27,7 +27,7 @@ namespace Bai10_OnlineShhop.Controllers
                 return uriBuilder.Uri;
             }
         }
-        // GET: User
+        // GET: User update
         [HttpGet]
         public ActionResult Register()
         {
